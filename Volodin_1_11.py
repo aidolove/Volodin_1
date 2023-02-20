@@ -1,5 +1,5 @@
-N = int(input())
-hours = N // 60 - ((N // 60) // 24) * 24
-minutes = N % 60
+x = int(input())
+hours = x // 60 - ((x // 60) // 24) * 24
+minutes = x % 60
 
 print(hours, ':', minutes, sep='')
