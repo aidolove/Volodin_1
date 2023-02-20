@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 28 12:56:31 2023
-
-@author: 309-uk2
-"""
-
 amount = int(input())
 
 rubles = int(input())
