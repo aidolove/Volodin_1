@@ -1,2 +1,2 @@
 name = input()
-print('Привет, ' + name + '!')
+print('Привет, ', name, end='!')
