@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 28 11:06:21 2023
-
-@author: 309-uk2
-"""
-
-
 A = int(input())
 
 p = "   _~_    "
